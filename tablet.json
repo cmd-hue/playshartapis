@@ -1,0 +1,56 @@
+{
+  "tiles": [
+    {
+	  "margin_left": 15,
+      "type": "row",
+      "cells": [
+        {
+		  "margin_top": 30,
+		  "margin_bottom": 15,
+          "image": "http://market.lyano.ovh/api/home_images/apps.png",
+          "action": "list",
+          "target": "home",
+		  "ratio" : 4
+        },
+        {
+		  "margin_top": 30,
+		  "margin_bottom": 15,
+          "image": "http://market.lyano.ovh/api/home_images/games.png",
+          "action": "list",
+          "target": "games",
+		  "ratio" : 4
+        },
+		 {
+		  "margin_top": 30,
+		  "margin_bottom": 15,
+          "image": "http://market.lyano.ovh/api/home_images/movies.png",
+          "action": "webview",
+          "target": "http://market.lyano.ovh/api/placeholder.html",
+		  "ratio" : 4
+        },
+        {
+		  "margin_top": 30,
+		  "margin_bottom": 15,
+          "image": "http://market.lyano.ovh/api/home_images/music.png",
+          "action": "webview",
+          "target": "http://market.lyano.ovh/api/placeholder.html",
+		  "ratio" : 4
+        }
+      ]
+    },
+	{
+  "type": "shelf",
+  "title": "Our Favorites",
+  "packages": [
+    "net.yougli.shakethemall", "com.halfbrick.fruitninjafree", "com.google.android.apps.androidify", "jp.ne.ibis.ibispaintx.app", "org.ppsspp.ppsspp"
+  ]
+},
+{
+  "type": "shelf",
+  "title": "This week: Customization!",
+  "packages": [
+    "kaka.wallpaper.forest", "com.jetblacksoftware.xmastreewallpaperpaid", "com.rechild.advancedtaskkiller", "com.tribok.android.livewallpaper.icswallpaper.pro", "com.androidwasabi.livewallpaper.jellybean", "com.xllusion.livewallpaper.spectrum", "com.xllusion.livewallpaper.mood", "com.mx.bokehlwp", "edu.stanford.nicd.chroma", "com.maxelus.icegalaxylivewallpaper", "com.balomomo.waterdrop", "com.BatteryUseStatus", "com.jrummy.apps.boot.animations"
+  ]
+}
+  ]
+}
