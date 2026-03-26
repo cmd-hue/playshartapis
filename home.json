@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "title": "Our Favorites",
+      "packages": ["net.yougli.shakethemall", "com.instagram.android", "com.halfbrick.fruitninjafree", "com.google.android.apps.androidify", "jp.ne.ibis.ibispaintx.app", "org.ppsspp.ppsspp"]
+    },
+    {
+      "title": "Utilities",
+      "packages": ["com.rechild.advancedtaskkiller", "com.urbandroid.sleep", "com.mboyadjiev.batteryfullnotification", "com.jrummy.root.browserfree"]
+    },
+	{
+      "title": "Play Shart Picks",
+      "packages": ["io.github.gohoski.notpipe"]
+    }
+  ]
+}
+
+
+
